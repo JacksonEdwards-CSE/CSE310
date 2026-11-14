@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hlyco\\CSE230\\CSE310-Sprint4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800DB0F9-0D99-4A14-94AE-9510A6CEA6E1}|CSE310-Sprint4\\CSE310-Sprint4.vcxproj|C:\\Users\\hlyco\\CSE230\\CSE310-Sprint4\\CSE310-Sprint4\\CSE310-Sprint4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{800DB0F9-0D99-4A14-94AE-9510A6CEA6E1}|CSE310-Sprint4\\CSE310-Sprint4.vcxproj|solutionrelative:CSE310-Sprint4\\CSE310-Sprint4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSE310-Sprint4.cpp",
+              "DocumentMoniker": "C:\\Users\\hlyco\\CSE230\\CSE310-Sprint4\\CSE310-Sprint4\\CSE310-Sprint4.cpp",
+              "RelativeDocumentMoniker": "CSE310-Sprint4\\CSE310-Sprint4.cpp",
+              "ToolTip": "C:\\Users\\hlyco\\CSE230\\CSE310-Sprint4\\CSE310-Sprint4\\CSE310-Sprint4.cpp",
+              "RelativeToolTip": "CSE310-Sprint4\\CSE310-Sprint4.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-13T17:13:33.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
